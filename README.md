@@ -1,4 +1,4 @@
-# THE NOVABOT
+# NOVABOT, THE ROBOT ASTRONOMER
 ---
 
 # Project Description
