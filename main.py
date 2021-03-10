@@ -11,7 +11,8 @@ print("Hello. My name is Nova, the astronomy Chat Bot. Pleased to meet you")
 while True:  # The Chat Bot will run until 'goodbye' is inputted
     user_input = input("Input: ").lower()
     if user_input.lower() == "goodbye":
-        print("See you soon!")
+        print("Nova: See you soon!")
         quit()
     else:
+        print("Nova:",end=' ')
         Processor.process(user_input, question_list, responses)
