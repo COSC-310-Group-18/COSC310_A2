@@ -27,6 +27,10 @@ You will need to download and install NLTK and Spacy in your python IDE before u
 # Capabilities
 
 - Nova utilizes natural language processing and pattern matching effectively so the user input does not have to match the predefined questions exactly to get an accurate response
+`Input: what is nuclear fusion?`
+`Nova: It is a processes by which the Sun fuses hydrogen atoms to form helium`
+`Input: nuclear fusion`
+`Nova: It is a processes by which the Sun fuses hydrogen atoms to form helium`
 - Nova cover a wide range of topics in astronomy and astrophysics 
 - Nova is easy to refactor and reuse since its structure is very basic. The corpus.txt can be modified to suit any topic of interest
 
