@@ -17,9 +17,9 @@ Nova was developed in python and uses natural language processing to understand 
 
 You will need to download and install NLTK and Spacy in your python IDE before using Nova. You will also need to download en_core_web_lg for Spacy. Once that is complete, you can run main.py and begin using Nova. 
 
-` - pip install nltk`
-` - pip install -U spacy`
-` - python -m spacy download en_core_web_lg`
+- `pip install nltk`
+- `pip install -U spacy`
+- `python -m spacy download en_core_web_lg`
 
 # Branches
 
