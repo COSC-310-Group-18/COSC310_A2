@@ -40,11 +40,11 @@ You will need to download and install NLTK and Spacy in your python IDE before u
 
 # Limitations
 
-- Nova can take a while to processes user input and output the correct responses since there is a lot of conversion and formatting to be done
-- Nova is somewhat limitted to the predefined questions and responses in the corpus.txt. The file would have to be expanded in order for Nova to answer more questions
+- Nova can take a while to processes user input and output the correct responses since there is a lot of conversion and formatting to be done. The processing time could be lowered by using more efficient functions.
+- Nova is somewhat limitted to the predefined questions and responses in the corpus.txt. The corpus.txt will have to be expanded to allow Nova to answer more questions.
   - `Input: who is the president of the USA?`
   - `Nova: I do not understand your question`
-- Nova cannot recognize inputs that have spelling errors
+- Nova cannot recognize inputs that have spelling errors. This can be fixed with Porter Stemmer in the next version
   - `Input: what is a neutron star?`
   - `Nova: It is the compact corpse of a high-mass star. It packs about the mass of the Sun into the volume just a few kilometers in radius`
   - `Input: what is a nutron star?`
