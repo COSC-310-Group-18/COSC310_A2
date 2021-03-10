@@ -23,10 +23,12 @@ You will need to download and install NLTK and Spacy in your python IDE before u
 
 # Branches
 
-- **Main**: This section introduces the user, take their input and manages how the program executes 
+- **Corpus**: Contains a compilation of questions and responses that Nova uses to converse with the user
 - **Preprocessor**: This section is in charge of formatting the user input into a more readable format for the system
 - **Processor**: This section takes the preprocessed data and tries to match it with its accurate response
-- **Corpus**: Contains a compilation of questions and responses that Nova uses to converse with the user
+- **Main**: This section introduces the user, take their input and manages how the program executes 
+
+`Preprocessor` --> `Processor` --> `Main`
 
 # Capabilities
 
