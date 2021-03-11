@@ -3,11 +3,11 @@
 
 # Project Description
 
-Nova is a chatbot that was designed to answer questions pertaining to astronomy. She knows the answers to several questions regarding galaxies, stars, our solar system, black holes and many other astronomical topics. As technology progresses, our society will likely look towards venturing further into the depth of space. Therefore, we aim to educate individuals on the basics of astronomy through this chatbot to prepare them for the future. 
+Nova is a chatbot that is passionate about teaching astronomy to users. Her implementation of natural language processing in python allows her to understand and answer user questions related to stars, galaxies, black holes, planets and many other astronomical topics. She was created with the intent to spread basic knowledge about astronomy to individuals who are interested in the field. 
 
 # Software Development Life Cycle
 
-We chose to use the incremental development life cycle. We chose this life cycle because we will be gathering a lot of user feedback while we are developing and this will likely lead to many changes to our requirements and design. Having this agile cycle will allow more freedom for us to make changes during development. We also want to utilize pair programming during our development which is a crucial factor in agile development. Our incremental development phases will include a project planning phase, a researching phase, a development ohase, an review phase and then a presentation phase. We aim to develop a basic chatbot in the first major increment then develop a GUI for the chatbot in the second major increment. 
+We chose to use the incremental development life cycle. This life cycle is ideal because we would like to continuously gather user feedback and make corrective changes throughout development. As part of the agile process, we will also be participating in peer programming since we all have limited experience creating chatbots and want to support each other. Our incremental life cycle will include a project planning phase, a researching phase, a development phase, a review phase and then a presentation phase. We aim to develop a basic chatbot in the first major increment then develop a GUI for the chatbot in the second major increment. 
 
 # How does Nova work?
 
@@ -42,8 +42,8 @@ You will need to download and install NLTK and Spacy in your python IDE before u
 
 # Limitations
 
-- Nova can take a while to processes user input and output the correct responses since there is a lot of conversion and formatting to be done. The processing time could be lowered by using more efficient functions.
-- Nova is somewhat limitted to the predefined questions and responses in the corpus.txt. The corpus.txt will have to be expanded to allow Nova to answer more questions.
+- Nova can take a while to process user input and output the correct responses since there is a lot of conversion and formatting to be done. The processing time could be lowered by using more efficient functions.
+- Nova is somewhat limited to the predefined questions and responses in the corpus.txt. The corpus.txt will have to be expanded to allow Nova to answer more questions.
   - `Input: who is the president of the USA?`
   - `Nova: I do not understand your question`
 - Nova cannot recognize inputs that have spelling errors. This can be fixed with Porter Stemmer in the next version
