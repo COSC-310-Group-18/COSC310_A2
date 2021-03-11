@@ -28,7 +28,7 @@ You will need to download and install NLTK and Spacy in your python IDE before u
 - **Processor**: This section takes the preprocessed data and tries to match it with its accurate response
 - **Main**: This section introduces the user, take their input and manages how the program executes 
 
-`Preprocessor` --> `Processor` --> `Main`
+`Corpus` --> `Preprocessor` --> `Processor` --> `Main`
 
 # Capabilities
 
