@@ -1,7 +1,11 @@
 import string
+import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
+nltk.download('wordnet')
+nltk.download('punkt')
+nltk.download('stopwords')
 
 
 def load_corpus():  # Loads questions and responses from corpus.txt
