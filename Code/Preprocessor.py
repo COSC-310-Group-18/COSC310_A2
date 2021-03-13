@@ -7,6 +7,7 @@ nltk.download('wordnet')
 nltk.download('punkt')
 nltk.download('stopwords')
 
+#Preprocessor has functions to load the corpus questions and responses, as well as to format the user input so it can be used by the Processor file.
 
 def load_corpus():  # Loads questions and responses from corpus.txt
     questions = []

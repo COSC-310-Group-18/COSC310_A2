@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e90d13dd-808f-4bd8-a715-b313c7989d57" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/COSC310_A2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NovaBot.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/310 Assignment2.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Preprocessor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Processor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/corpus.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Preprocessor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Preprocessor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Processor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Processor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
